@@ -1,0 +1,6 @@
+argilla
+datasets
+jupyter
+scikit-learn
+spacy
+
